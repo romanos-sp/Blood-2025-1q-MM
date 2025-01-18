@@ -7,11 +7,11 @@ Repository holding code for main and supplemental figures from: **Sklavenitis-Pi
 
 > **Figure 3.** In vitro validation and synergy of MCL1 and PI3K inhibitors in 1q+ HMCLs. 
 
-> **Figure 4.** Single-cell RNA sequencing of patients with subclonal 1q+ demonstrate association of MCL1 and PI3K dependency with 1q+.
+> **Figure 4.** Single-cell RNA-sequencing of patients with subclonal 1q+ demonstrate association of MCL1 and PI3K dependency with 1q+.
 
 > **Figure 5.** Isolation of isogenic clones with different copy number for 1q31-1q44 suggests role of arm-level amplification in MCL1i/PI3Ki sensitivity.
 
-> **Figure 6.** Single-cell RNA-sequencing of HMCLs with 1q+ before and after treatment with MCL1i, PI3Ki, and combination demonstrates mechanism of action.
+> **Figure 6.** Single-cell RNA-sequencing of 1q+ HMCLs before and after treatment with MCL1i, PI3Ki, and combination demonstrates mechanism of action.
 
 > **Supplemental Figure 1.** Related to Main Figure 1.
 
