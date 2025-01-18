@@ -169,7 +169,7 @@ ggplot(cmap_long[cmap_long$Compound != "Bortezomib", ]) +
 dev.off()
 
 #Figure 2E
-#Compare enrichment of different pathways with > 2 hits between hits and no hits
+#Compare enrichment of different pathways with > 1 hits between hits and no hits
 cmap_hits <- read.csv(paste0(output_dir, "CMapScreen_Annotatedhits.csv"), row.names = 1)
 ##unify PI3K/mTOR inhibitors: "PI3K inhibitor", "mTOR inhibitor", "mTOR inhibitor|PI3K inhibitor"
 cmap_hits$moa2 <- ifelse(cmap_hits$moa %in% c("PI3K ", "mTOR", "DNA-PJ, PI3K, mTOR", "PI3K, mTOR"), "PI3K/mTOR inhibitor", as.character(cmap_hits$moa))
