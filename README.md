@@ -20,5 +20,5 @@ Repository holding code for main and supplemental figures from: **Sklavenitis-Pi
 > **Supplemental Figure 3.** Related to Main Figure 6.
 
 ## Data availability
--Single-cell RNA-sequencing and whole-genome sequencing data generated for the purposes of this study will be deposited to dbGaP.
+-Single-cell RNA-sequencing and whole-genome sequencing data generated for the purposes of this study were deposited to dbGaP (phs003886.v1.p1, https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs003886.v1.p1).
 
